@@ -18,3 +18,5 @@ Hope this helps someone else. If not, here is my folder and follow 1. and 2. (Sh
 Additionally:
 
 If 1. and 2. are too complicated/too many steps for you/scary, I included a run.bat folder (TO-Fuse-Tools-And-Guides/scripts/TNT/run.bat) in this one so you don't have to do step 1 and just have a command prompt open (follow step 2 along with your appropriate arguments). Enjoy!
+
+I also added a run_bulk4.bat file (TO-Fuse-Tools-And-Guides/TNT/run_bulk4.bat) for bulk processing of exporting files, in case you are unpacking a whole server. It only touches NRI's and will recursor through other directories, if you so wish. It is probably vibes coding so I would appreciate anyone streamlining the code if possible! I tried to put a log in there but I couldn't really figure out how, I am very new to this. I also put a how_to_use_bat.txt inside for anyone unfamiliar/scared with these new tweaks. I hope this increases accessibility for the files :)
