@@ -42,9 +42,9 @@ This repository is a collection of community-written tutorials, tools, and fuse 
 
 ## Usage Notes
 
-- Scripts are built for Windows and require `python` to be installed (for Nori).
+- Scripts are built for Windows
 - Recolors are indexed to be game-safe and minimize palette corruption issues.
-- All guides are designed for ease of use — no prior SWF editing experience needed.
+- All guides are designed for ease of use — no prior NRI editing experience needed.
 
 ---
 
