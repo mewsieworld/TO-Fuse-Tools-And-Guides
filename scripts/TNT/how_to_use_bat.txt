@@ -1,0 +1,16 @@
+**run.bat**
+- Good if you just want to unpack or view individual files
+> Place in main TNT folder, making sure the TNT folder is named "TNT" ONLY (without quotes)
+> Double left click, input your args, you're done!
+
+**run_bulk4.bat**
+- Only good for extracting bulk NRI's
+- Great if you want to extract an entire server's files, or an entire directory without doing C:\...\*.nri (I keep forgetting the *.nri :( )
+- It will also delete the empty folders left behind by the encrypted NRI's *for you* so you don't have to worry about cleaning up after.
+> Place in main TNT folder, making sure the TNT folder is named "TNT" ONLY (without quotes)
+> Double Left Click, Ctrl+V your folder directory (I prefer the Trickster/Data folder so it recurses and does the whole thing), enter, decide if it should do the folders inside as well (recurse), and watch the magic happen!
+ 
+
+Major thanks to PyroSamurai for the original tool. I just wanted tiny scripts to streamline things and contribute.
+
+~Mewsie
