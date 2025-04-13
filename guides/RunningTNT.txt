@@ -1,0 +1,20 @@
+For anyone struggling, these were my steps:
+
+- Install JDK
+- Environment Path to JDK
+- Restart
+- make manifest.txt in "TNT-master" folder with "Main-Class: Main" (no quotes) for the text
+- Rename folder to "TNT" (no quotes)
+1. Shift+Rclick to Open Windows Power Shell in that folder
+- ".\compile-jar.bat" (no quotes) in windows powershell
+2. "java -jar TNT.jar" (no quotes) in windows powershell
+
+
+
+Hope this helps someone else. If not, here is my folder and follow 1. and 2. (Shift+Rclick.....& "java -jar....) to run it. Happy extracting :)
+
+
+
+Additionally:
+
+If 1. and 2. are too complicated/too many steps for you/scary, I included a run.bat folder (TO-Fuse-Tools-And-Guides/scripts/TNT/run.bat) in this one so you don't have to do step 1 and just have a command prompt open (follow step 2 along with your appropriate arguments). Enjoy!
