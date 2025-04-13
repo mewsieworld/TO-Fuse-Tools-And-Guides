@@ -1,0 +1,36 @@
+Full thread here: https://forum.ragezone.com/threads/how-to-make-custom-recolors-fuse-tutorial.1243711/
+
+Hello, GitHub!
+
+As I said in my RageZone threads, my usual alias is Mewsie, or as I was known in epTO, Mewzie or my fuse creator name Happy (among many other characters). I wanted to create a video tutorial for how to create custom recolors so people can dip their toes into this, and if they come across a Fuse tool, or have someone else export it for them, will create so much new content that Trickster will not fade away.
+
+This video tutorial I am posting here (https://www.youtube.com/watch?v=WZkyFoCyn_c) is aimed at beginners, but may use some advanced terminology. Please ask questions if you are curious or confused--I am here to support you! We should be supporting each other in this endeavor!! Recolors are a great way to start making custom content and grasping the skills, resolution, and knowledge required to make original content. After all, in order to learn to walk, we must first crawl. I highly recommend all beginner fuse artists try this method out, at least once!
+
+Programs/files you will need:
+
+- TO-Toolbox (https://github.com/TricksterOnline/TO-Toolbox) (or alternatively, my folder with the premade built executable [CaballaRE>bin>Debug>CaballaRE.exe; check out the thread for distribution)
+- TNT ([https://forum.ragezone.com/threads/the-nori-tool-released.1151414/] or preferably, my folder with a runnable .bat pre-made for you [located in TO-Fuse-Tools-And-Guides/scripts/TNT/run.bat])
+- My run_bulk4.bat ([located in TO-Fuse-Tools-And-Guides/scripts/TNT/run_bulk4.bat] preferably, but you don't have to if you know how to use TNT already or you follow my setup steps in this thread)
+- Photoshop
+- My "setup" action for Photoshop ([https://forum.ragezone.com/threads/the-nori-tool-released.1151414/post-9346763] preferably, but you can do it the manual way if you want to!)
+- Existing Trickster client Data Folder files
+
+
+
+What this tutorial teaches you:
+
+- How to extract the files (based on run_bulk4.bat and TNT)
+- How to use TO-Toolbox to export the item databases to CSV from a libconfig.xml
+- Finding the right files for the base recolor you want (icon, illustration, and animation frames) by searching the exported CSV's
+- How to use the "setup" action, and what it does
+- Tips regarding editing, including future actions, how to use the color range selector tool, and when to make personal touches
+
+
+
+
+Here is another link to the video: https://www.youtube.com/watch?v=WZkyFoCyn_c (sorry about the weird blurs, my drives have silly names)
+
+
+PLEASE NOTE: This does NOT cover how to use a fuse tool for exporting to *.nri. As I said a few times in the video, the tool I'm currently working with is a borrow from someone very nice, and it is not mine to distribute. However, when I get my files, I probably will try to release it, and update this thread and add another video tutorial on how to use it to the best of my knowledge.
+
+ALSO: I use my version of these tools specifically in this tutorial, for ease for newcomers (and admittedly, my own comfort). I highly suggest using the versions I made to streamline your workflow, especially if you are not ready to fully grasp how to do all this yourself, as it is very daunting, after all, and it will help you follow along the tutorial more easily.
