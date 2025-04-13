@@ -5,4 +5,4 @@ Load from the Actions Menu in Photoshop
 Open any existing fuse .bmp
 Enjoy easy access!
 
-Further tutorial here: https://www.youtube.com/watch?v=WZkyFoCyn_c
+Further tutorial here on what to do with this file after you have it installed: https://www.youtube.com/watch?v=WZkyFoCyn_c
