@@ -1,7 +1,7 @@
 # TO-Fuse-Tools-And-Guides
 My contributions to the Trickster Fuse Community, including additions to tools, guides, and my personal fuses.
 
-This repository is a collection of community-written tutorials, tools, and fuse assets for customizing Trickster Online character graphics. It includes beginner-friendly guides, recolor templates, helper scripts, and a bulk release of custom-made fuse parts.
+This repository is a collection of community-written tutorials, tools, and fuse assets for customizing Trickster Online character graphics as well as gameplay. It includes beginner-friendly guides, recolor templates, helper scripts, and a bulk release of custom-made fuse parts, as well as guides regarding gameplay such as for Guardian and Sheep.
 
 > **This repo does NOT include full copies of external tools** such as Pyro’s Nori Tool — we only link to those, with credit to their original authors.
 ---
