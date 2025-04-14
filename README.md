@@ -29,16 +29,16 @@ This repository is a collection of community-written tutorials, tools, and fuse 
   ➤ [Forum Post](https://forum.ragezone.com/threads/bulk-custom-fuse-release.1243661/)
 
 - **Mew's Guardian Guide**  
-  My in-depth Guardian Guide (along with builds, skills, and stats spreadsheets), made with love and care, and much more detail than other guides (Wiki Post is more updated than the attached documents alone btw)
+  My in-depth Guardian Guide (along with builds, skills, and stats spreadsheets), made with love and care, and much more detail than other guides (Wiki Post is more updated than the attached documents alone btw).  
   ➤ [Wiki Post](https://mewsie.world/CoraTOWiki/index.php/Mew%27s_Guardian_Guide)
   
 - **Mew's Sheep Guide**  
-  My Sheep Guide, covering PvE and PvP for all elements (that I have tried) other than dark.
-    ➤ [Wiki Post](https://mewsie.world/CoraTOWiki/index.php/Mew%27s_Sheep_Guide)
+  My Sheep Guide, covering PvE and PvP for all elements (that I have tried) other than dark.  
+  ➤ [Wiki Post](https://mewsie.world/CoraTOWiki/index.php/Mew%27s_Sheep_Guide)
   
 - **FastLane 3.2.1**  
-  My episode questing fast-track guide to powerleveling alts and farming episode quests. Needs major modification to work on other servers, most likely, or requires BossLane on other servers--requires testing and tinkering 100%
-    ➤ [WORKING Google Docs Link](https://docs.google.com/spreadsheets/d/1Bw6vgHLtEUMLzt15ZmEj6iQSiE_JoxbG4FgypmgN07w/)
+  My episode questing fast-track guide to powerleveling alts and farming episode quests. Needs major modification to work on other servers, most likely, or requires BossLane on other servers--requires testing and tinkering 100%.  
+  ➤ [WORKING Google Docs Link](https://docs.google.com/spreadsheets/d/1Bw6vgHLtEUMLzt15ZmEj6iQSiE_JoxbG4FgypmgN07w/)
 ---
 
 ## Tool Attribution
