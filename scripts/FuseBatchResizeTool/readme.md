@@ -43,6 +43,9 @@ This is not to say it will not require manual adjustment in your fuse tool, but 
    - Automatically moves to the next image
 4. Find your processed images in the `output_resized/` folder
 
+## DISCLAIMER
+
+This is admittedly vibes code. But I looked over it and it didn't seem like anything that could blow up my computer. However, if this still ails you, I suggest reviewing the python file yourself and making something better, if you can. This is the best I got right now.
 ## If You're Using the Python Script
 
 Make sure you have these installed/run this ahead of time in your terminal:
